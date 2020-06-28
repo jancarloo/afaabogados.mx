@@ -21,7 +21,7 @@
 COMMON STYLES             
 -----------------------------------------*/
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 /*.container{
 	-webkit-transition: all.2s;
@@ -29,7 +29,7 @@ body {
 	transition: all.2s;
 }*/
 p{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #9b9b9b;
 	line-height: 24px;
@@ -64,8 +64,8 @@ p{
 .text-upper{
     text-transform: uppercase;
 }
-.sl-italic{
-    font-style: italic;
+.sl-{
+    font-style: ;
 }
 /*LOADING*/
 .outslider_loading{
@@ -143,8 +143,9 @@ p{
 /*---------------------------------------
     HEADER       
 -----------------------------------------*/
+
 .header-area{
-	padding: 38px 0px 0px 0px;
+	padding: 30px 0px 0px 0px;
     background-color: #fff;
     z-index: 9;
     -webkit-transition: all .5s;
@@ -202,7 +203,7 @@ p{
 	display: inline-block;
     font-size: 12px;
     color: #bfbfbf;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 0px 10px;
     border-right: 1px solid #e5e4e4;	
 }
@@ -215,7 +216,7 @@ p{
 .header-contact ul li a{
 	font-size: 12px;
 	color: #013368;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	text-decoration: none;
 }
 .header-contact ul li span{
@@ -317,7 +318,7 @@ p{
     width: 155px;
     height: 40px;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
@@ -356,7 +357,7 @@ p{
     opacity: 1;
 }
 .menuzord-brand, .menuzord-brand:hover, .menuzord-brand:focus{
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 40px;
 	color: #1b1a1a;
 	font-weight: bold;
@@ -369,7 +370,7 @@ p{
 	margin-right: 15px;
 }
 .menuzord-brand span{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #bfbfbf;
 	float: right;
@@ -401,7 +402,7 @@ p{
     line-height: 1.42857143;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     -webkit-tap-highlight-color: transparent;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     position: relative;
     -webkit-transition: all .5s;
     -o-transition: all .5s;
@@ -461,7 +462,7 @@ p{
     border-top:0px solid;
 }
 .menuzord-menu ul.dropdown li a,.menuzord-menu ul.dropdown li a:hover{
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     padding: 15px 0px 15px 30px;
     border-bottom: 0;
@@ -509,7 +510,7 @@ p{
     position: relative;
     outline: 0;
     border-bottom: 1px solid #393838;
-    font-family: 'Open Sans', sans-serif;	
+    font-family: Arial, Helvetica, sans-serif;	
     text-transform: uppercase;
     font-size: 12px;
 
@@ -618,7 +619,7 @@ p{
     font-size: 35px;
     color: #474747;
     height: 75px;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     border: none;
     font-weight: bold;
     box-shadow: none;
@@ -915,7 +916,7 @@ p{
 .countdown-content h2{
 	font-size: 40px;
     color: #333333;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin-bottom: 5px;
     margin-top: 13px;
@@ -923,7 +924,7 @@ p{
 .countdown-content p{
 	font-size: 15px;
 	color: #474747;
-	font-family: 'Raleway', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: 600;
 	margin-bottom: 0;
 }
@@ -982,7 +983,7 @@ p{
 	font-size: 15px;
     line-height: normal;
     color: #474747;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     display: inline-block;
     margin-bottom: 10px;
     font-weight: bold;
@@ -990,14 +991,14 @@ p{
 .Title-area h2{
 	font-size: 26px;
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 22px;
     margin-top: 0;
     font-weight: bold;
 
 }
 .Title-area p{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #9b9b9b;
 }
@@ -1012,7 +1013,7 @@ p{
 .asset-content h2{
 	font-size: 20px;
     color: #282828;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     margin-top: 0;
     line-height: 30px;	
@@ -1021,7 +1022,7 @@ p{
 	float: right;
     font-size: 60px;
     color: #d7d7d7;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     position: relative;
     top: -16px;
@@ -1033,7 +1034,7 @@ p{
 .asset-content a {
 	font-size: 13px;
 	color: #013368;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	display: inline-block;
 	text-decoration: none;
 	font-weight: bold;
@@ -1050,7 +1051,7 @@ p{
 .asset-button button{
 	font-size: 13px;
 	color: #333333!important;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding: 17px 26px;
 	border: 2px solid #eee!important;
@@ -1112,7 +1113,7 @@ p{
 .help-text-heading h2{
 	font-size: 35px;
     line-height: 44px;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin-top: 30px;
 
@@ -1120,7 +1121,7 @@ p{
 .help-text-heading p{
 	font-size: 15px;
     line-height: 24px;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
 .help-content{
@@ -1140,7 +1141,7 @@ p{
     font-weight: 700;
     line-height: 29px;
     padding-bottom: 2px;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #282828;
 }
 
@@ -1199,7 +1200,7 @@ p{
 	font-size: 24px;
 	color: #282828;
 	font-weight: bold;
-	font-family: 'Raleway', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	margin-top: 35px;
 }
 .p-c-default h2 a{
@@ -1250,7 +1251,7 @@ p{
 	font-size: 24px;
 	color: #282828;
 	font-weight: bold;
-	font-family: 'Raleway', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 .p-c-hover h2 a{
 	font-size: 24px;
@@ -1344,7 +1345,7 @@ p{
 	font-size: 24px;
 	color: #282828;
 	font-weight: bold;
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	line-height: 36px;
     margin-top: 13px;
 }
@@ -1357,7 +1358,7 @@ p{
 .owl-testimonial-content p{
 	font-size: 17px;
     color: #9b9b9b;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 30px;
     margin-top: 25px;
 }
@@ -1370,14 +1371,14 @@ p{
 	display: block;
 	font-size: 16px;
 	color: #282828;
-	font-family: 'Raleway', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	margin-bottom: 10px;
 }
 .testimonial-quote span:last-child{
 	font-size: 13px;
     color: #b8b8b8;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #testimonial-demo .owl-controls {
     display: none!important;
@@ -1414,7 +1415,7 @@ p{
 .t-b-details > h2{
 	font-size: 17px;
 	color: #282828;
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	position: relative;
 	line-height: 25px;
@@ -1460,13 +1461,13 @@ p{
 .t-b-img span:first-child{
 	font-size: 12px;
 	color: #fdfdfd;
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	display: block;
 }
 .t-b-img span:last-child{
 	font-size: 26px;
 	color: #fdfdfd;
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	margin-top: 0;
 	display: block;
@@ -1491,7 +1492,7 @@ p{
 	float: left;
 	font-size: 12px;
 	color: #474747;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 .t-b-comment p:first-child span{
 	color: #b8b8b8;
@@ -1500,7 +1501,7 @@ p{
 	float: right;
 	font-size: 12px;
 	color: #474747;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	margin-right: 0;
 }
 .t-b-comment p:last-child span{
@@ -1584,7 +1585,7 @@ p{
     line-height: 26px;
     margin: 0 0 2px;
     color: #282828;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 
 }
@@ -1600,7 +1601,7 @@ p{
 }
 .member-name p{
 	 color: #b8b8b8;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
 }
 .member-name span{
@@ -1653,25 +1654,25 @@ p{
 .contact-form form{
 	padding: 25px 30px;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;     
+    font-family: Arial, Helvetica, sans-serif;     
 }
 .contact-form .form-control::-webkit-input-placeholder {
     color:#b8b8b8;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px; 
 }
 .contact-form .form-control::-moz-placeholder {
     color:#b8b8b8; 
-    font-family:'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
 } /* firefox 19+ */
 .contact-form .form-control:-ms-input-placeholder {
     color:#b8b8b8;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px; 
 } /* ie */
 .contact-form .form-control :-moz-placeholder { 
-    color:#b8b8b8; font-family: 'Open Sans', sans-serif;
+    color:#b8b8b8; font-family: Arial, Helvetica, sans-serif;
     font-size: 13px; 
  }
  .contact-form .form-control{
@@ -1689,7 +1690,7 @@ p{
     -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0);
     box-shadow: inset 0 1px 1px rgba(0,0,0,0);
     outline: none;
-    font-family: 'Open Sans', sans-serif;    
+    font-family: Arial, Helvetica, sans-serif;    
 
 }
 .contact-form form select{
@@ -1705,7 +1706,7 @@ p{
     margin-bottom: 15px;
     color: #b8b8b8;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;  
+    font-family: Arial, Helvetica, sans-serif;  
     font-size: 13px; 
     font-weight: 400; 
 }
@@ -1714,7 +1715,7 @@ p{
     padding: 17px 0px;
     font-size: 14px!important;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif; 
+    font-family: Arial, Helvetica, sans-serif; 
 }
 .contact-form form textarea,.contact-form form textarea:focus{
 	background: transparent!important;
@@ -1728,7 +1729,7 @@ p{
     -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0);
     box-shadow: inset 0 1px 1px rgba(0,0,0,0);
     outline: none;
-    font-family: 'Open Sans', sans-serif;    
+    font-family: Arial, Helvetica, sans-serif;    
 }
 /*select box*/
 .styled-select {
@@ -1764,7 +1765,7 @@ select::-ms-expand {
  .contact-form form button:focus{
 	font-size: 13px;
     color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     padding: 17px 26px;
     background-color: #013368;
@@ -1882,13 +1883,13 @@ select::-ms-expand {
 .f-h-content h3{
 	font-size: 15px;
 	color: #838383;
-	font-family: 'Lora', serif;
-	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: ;
 	margin: 0;
 }
 .f-h-content h2{
 	font-size: 20px;
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	color: #fff;
 	margin: 11px 0px;
@@ -1931,7 +1932,7 @@ select::-ms-expand {
 .f-all-h2 h2{
 	font-size: 17px;
 	color: #ffffff;
-	font-family: 'Raleway', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	position: relative;
 	padding-left: 40px;
 	margin-top: 0;
@@ -1964,7 +1965,7 @@ select::-ms-expand {
 .f-second-content ul li{
 }
 .f-second-content ul li a{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #bfbfbf;
 	text-decoration: none;
@@ -1985,7 +1986,7 @@ select::-ms-expand {
 .f-third-content ul li{}
 .f-third-content ul li a{
 	color: #013368;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	display: block;
 	padding: 5px 0px;
@@ -2018,7 +2019,7 @@ select::-ms-expand {
 	background: #013368;
 	width: 60px;
 	height:100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #fff;
 	font-weight: bold;
@@ -2029,10 +2030,10 @@ select::-ms-expand {
     box-shadow: inset 0 0px 0px rgba(0,0,0,0),0 0 8px rgba(102,175,233,0);
 }
 
-.f-fourth-content input::-webkit-input-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 13px; }
-.f-fourth-content input::-moz-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 13px; } /* firefox 19+ */
-.f-fourth-content input:-ms-input-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 13px; } /* ie */
-.f-fourth-content input:-moz-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 13px; }
+.f-fourth-content input::-webkit-input-placeholder { color:#5d5d5d; font-family: Arial, Helvetica, sans-serif; font-style: ; font-size: 13px; }
+.f-fourth-content input::-moz-placeholder { color:#5d5d5d; font-family: Arial, Helvetica, sans-serif; font-style: ; font-size: 13px; } /* firefox 19+ */
+.f-fourth-content input:-ms-input-placeholder { color:#5d5d5d; font-family: Arial, Helvetica, sans-serif; font-style: ; font-size: 13px; } /* ie */
+.f-fourth-content input:-moz-placeholder { color:#5d5d5d; font-family: Arial, Helvetica, sans-serif; font-style: ; font-size: 13px; }
 .footer-bottom{
 	border-top: 1px solid #353535;
     padding: 30px 0px;
@@ -2060,7 +2061,7 @@ select::-ms-expand {
 }
 .f-bottom-right-text ul li a{
 	color: #bfbfbf;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	display: inline-block;
 	padding-left: 25px;
@@ -2095,7 +2096,7 @@ select::-ms-expand {
 .footer-type-2 h2{
 	font-size: 40px;
 	color: #fff;
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 .footer-type-2 p{
 	color: #bfbfbf;
@@ -2148,7 +2149,7 @@ select::-ms-expand {
     font-size: 24px;
     color: #282828;
     font-weight: bold;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding-top: 10px;
 }
 .h-2-p-c-default h2:before{
@@ -2175,7 +2176,7 @@ select::-ms-expand {
 	color: #282828;
     font-size: 13px;
     font-weight: bold;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     margin: 12px 0px;
     display: inline-block;
@@ -2269,7 +2270,7 @@ select::-ms-expand {
 	font-size: 14px;
 	color: #282828;
 	font-weight: bold;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	padding: 15px 0px;
 	display: block;
 	position: relative;
@@ -2329,7 +2330,7 @@ select::-ms-expand {
 }
 
 .history-right-content{
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 35px;
 }
 .h-right-img{
@@ -2370,8 +2371,8 @@ select::-ms-expand {
 	font-size: 17px;
 	color: #9b9b9b;
 	line-height: 26.5px;
-    font-family: 'Raleway', sans-serif;
-    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: ;
     position: relative;
     top: -6px;
 
@@ -2470,7 +2471,7 @@ select::-ms-expand {
 .h-3-contact-text p{
 	font-size: 16px;
 	color: #959595;
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	padding-right: 25px;
 	margin-bottom: 15px;
 
@@ -2566,7 +2567,7 @@ select::-ms-expand {
 .skill{
 	font-size: 13px;
 	color: #222222;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -2691,7 +2692,7 @@ select::-ms-expand {
 	font-size: 14px;
 	color: #282828!important;
 	font-weight: bold;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: right;
     border-right: 1px solid #ddd;
     padding: 18px 30px;
@@ -2700,7 +2701,7 @@ select::-ms-expand {
     font-size: 14px;
     color: #282828!important;
     font-weight: bold;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     border-right: 1px solid #ddd;
     background: #fff;
 }
@@ -2754,10 +2755,10 @@ select::-ms-expand {
 .home-5-p-c-details h3{
 	color: #282828;
     font-size: 14px;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 15px 0 0px;
 
-    font-style: italic;
+    font-style: ;
 }
 .home-5-p-c-details h2{
 	margin-top: 0;
@@ -2767,7 +2768,7 @@ select::-ms-expand {
 	font-size: 24px;
     line-height: 29px;
     text-decoration: none;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #282828;
     display: inline-block;
     font-weight: bold;
@@ -2904,7 +2905,7 @@ select::-ms-expand {
 .home-6-heading h2{
 	font-size: 35px;
     line-height: 44px;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     padding-top: 55px;
@@ -2912,7 +2913,7 @@ select::-ms-expand {
 .home-6-heading p{
 	font-size: 15px;
     line-height: 24px;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     padding: 0px 200px 20px;
 }
@@ -2920,7 +2921,7 @@ select::-ms-expand {
 	.home-6-heading p{
 		font-size: 15px;
 	    line-height: 24px;
-	    font-family: 'Lora', serif;
+	    font-family: Arial, Helvetica, sans-serif;
 	    font-weight: bold;
 	    padding: 0px 15px 20px;
 	}	
@@ -2943,7 +2944,7 @@ select::-ms-expand {
 }
 .h-6-help-left-img{}
 .h-6-help-right-text{
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 80px;
 }
 .h-6-help-right-text h2{
@@ -2957,7 +2958,7 @@ select::-ms-expand {
 	font-size: 17px;
     line-height: 26px;
     color: #9b9b9b;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 .team-description{
@@ -3040,7 +3041,7 @@ select::-ms-expand {
 	font-size: 24px;
 	font-weight: bold;
 	color: #ffffff;
-	font-family: 'Raleway', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	text-decoration: none;
 }
 .h-7-p-c-slider-hover h2 a:hover{}
@@ -3143,8 +3144,8 @@ select::-ms-expand {
 .h-8-contact-text p{
 	color: #fff;
 	font-size: 19px;
-	font-family: 'Lora', serif;
-	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: ;
 	line-height: 26px;
 }
 .h-8-contact-button{
@@ -3202,7 +3203,7 @@ select::-ms-expand {
 	display: none;
 }
 .address-details{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 
 }
@@ -3316,7 +3317,7 @@ select::-ms-expand {
 	font-size: 20px;
 	color: #282828;
 	font-weight: 600;
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
 	margin-top: 10px;
 }
 .help-single p{}
@@ -3346,13 +3347,13 @@ select::-ms-expand {
 .home-9-slider-content h2{
 	font-size: 28px;
 	color: #fff;
-	font-style: italic;
-	font-family: 'Lora', serif;
+	font-style: ;
+	font-family: Arial, Helvetica, sans-serif;
 	line-height: 40px;
 }
 .home-9-slider-content p{
 	color: #013368;
-	font-style: italic;
+	font-style: ;
 }
 
 /*---------------------------------------
@@ -3508,9 +3509,9 @@ select::-ms-expand {
 .page-title-content{}
 .page-title-content p{
     color: #e5e4e4;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
-    font-style: italic;
+    font-style: ;
     line-height: 45px;
     display: block;
     margin-bottom: 5px;
@@ -3669,7 +3670,7 @@ ul.page-breadcrumbs li + li:before {
     font-size: 24px;
     color: #282828;
     font-weight: bold;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .p-c-practice-1 h2 a {
     font-size: 24px;
@@ -3773,7 +3774,7 @@ ul.page-breadcrumbs li + li:before {
     margin-bottom: 20px;
 }
 .inner-single-practice > p{
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     color: #9b9b9b;
     margin-bottom: 35px;
@@ -3843,7 +3844,7 @@ ul.page-breadcrumbs li + li:before {
     line-height: 26px;
     margin: 0 0 2px;
     color: #fff;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
 .attorney-content-default h2 a{
@@ -3855,7 +3856,7 @@ ul.page-breadcrumbs li + li:before {
 }
 .attorney-content-default p{
     color: #b8b8b8;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     margin-bottom: 30px;
 }
@@ -3865,7 +3866,7 @@ ul.page-breadcrumbs li + li:before {
     line-height: 26px;
     margin: 0 0 2px;
     color: #fff;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
 .attorney-content-default-hover h2 a{
@@ -3877,7 +3878,7 @@ ul.page-breadcrumbs li + li:before {
 }
 .attorney-content-default-hover p{
     color: #b8b8b8;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     margin-bottom: 30px;    
 }
@@ -4049,7 +4050,7 @@ ul.page-breadcrumbs li + li:before {
     width: 51px;
     color: #333;
     font-size: 24px;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     -webkit-transition: all 300ms linear 0ms;
     -moz-transition: all 300ms linear 0ms;
     -ms-transition: all 300ms linear 0ms;
@@ -4135,7 +4136,7 @@ ul.page-breadcrumbs li + li:before {
 .sidebar-category ul li a{
 	font-size: 13px;
 	color: #333333;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	display: block;
 	padding: 12px 0px;
 	border-bottom: 1px solid #f5f4f4;
@@ -4248,7 +4249,7 @@ ul.page-breadcrumbs li + li:before {
 }
 .t-b-standard >p{
     font-size: 15px;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 0;
 
 }
@@ -4264,13 +4265,13 @@ ul.page-breadcrumbs li + li:before {
 .blog-tb-details > p{
 	font-size: 15px;
 	padding-bottom: 10px;
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .blog-read-more{
 	margin: 30px 0px 0px;
 }
 .blog-read-more a,.blog-read-more a:focus{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	padding: 17px 46px;
 	font-size: 13px;
 	color: #fff;
@@ -4295,7 +4296,7 @@ ul.page-breadcrumbs li + li:before {
 	margin-right: 15px;
 	font-size: 12px;
     color: #474747;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .blog-post-comment p:not(:last-child) span{
     color: #b8b8b8;
@@ -4339,12 +4340,12 @@ ul.page-breadcrumbs li + li:before {
 }
 
 .blog-prev-next{
-	font-family: 'Lora', serif;
+	font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 50px;
 }
 .blog-prev-next p{
-	font-style: italic;
-	font-family: 'Lora', serif;
+	font-style: ;
+	font-family: Arial, Helvetica, sans-serif;
 	margin: 0;
 	line-height: 1;
     padding-bottom: 4px;
@@ -4483,7 +4484,7 @@ ul.page-breadcrumbs li + li:before {
 .single-blog-author-post p{
 	font-size: 15px;
 	color: #9b9b9b;
-	font-family: 'Raleway', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	border-bottom: none;
 }
 .blog-single-img{
@@ -4507,13 +4508,13 @@ ul.page-breadcrumbs li + li:before {
 .blog-single-img .b-single-span span:first-child {
     font-size: 12px;
     color: #fdfdfd;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     display: block;
 }
 .blog-single-img .b-single-span span:last-child {
     font-size: 26px;
     color: #fdfdfd;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin-top: 0;
     display: block;
@@ -4576,7 +4577,7 @@ ul.page-breadcrumbs li + li:before {
 .blog-single-img p a{
     font-size: 17px;
     color: #ffffff;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     -webkit-transition: all .5s;
     -o-transition: all .5s;
@@ -4622,7 +4623,7 @@ ul.page-breadcrumbs li + li:before {
     font-size: 15px;
     color: #222222;
     font-weight: bold;
-   font-family: 'Open Sans', sans-serif;
+   font-family: Arial, Helvetica, sans-serif;
 
 }
 .blog-reply-content h3:hover a{
@@ -4639,7 +4640,7 @@ ul.page-breadcrumbs li + li:before {
 .blog-reply-content h4{
     font-size: 12px;
     color: #b8b8b8;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .blog-reply-content p{
     margin-bottom: 0;
@@ -4648,7 +4649,7 @@ ul.page-breadcrumbs li + li:before {
 .blog-reply-content > a{
    font-size: 13px;
    color: #fff;
-   font-family: 'Open Sans', sans-serif;
+   font-family: Arial, Helvetica, sans-serif;
    background: #333333;
    display: inline-block;
    padding: 3px 13px 6px;
@@ -4665,7 +4666,7 @@ ul.page-breadcrumbs li + li:before {
 }
 .blog-reply-form{}
 .blog-reply-form form{
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
 }
 .blog-reply-form form .form-control{
@@ -4690,7 +4691,7 @@ ul.page-breadcrumbs li + li:before {
 .blog-reply-form form button,.blog-reply-form form button:focus{
     font-size: 13px;
     color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     padding: 17px 35px;
     background-color: #013368;
@@ -4765,7 +4766,7 @@ ul.page-breadcrumbs li + li:before {
 .error-content h2{
     font-size: 250px;
     color: #222222;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
 .error-content p{
@@ -4776,7 +4777,7 @@ ul.page-breadcrumbs li + li:before {
     font-size: 13px;
     color: #333333;
     font-weight:bold;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 17px 46px;
     display: block;
     border: 2px solid #eee;
@@ -4877,7 +4878,7 @@ ul.page-breadcrumbs li + li:before {
 }
 
 .tk-countdown div span:first-child {
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     font-size: 65px;
     line-height: 64px;
@@ -4887,7 +4888,7 @@ ul.page-breadcrumbs li + li:before {
 }
 
 .tk-countdown div span:last-child {
-    font-family: 'Raleway', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     font-size: 15px;
     line-height: 20px;
@@ -4951,13 +4952,13 @@ ul.page-breadcrumbs li + li:before {
     font-size: 15px;
     color: #3f372c;
     font-weight: bold;
-    font-style: italic;
-    font-family: 'Lora', serif;
+    font-style: ;
+    font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 50px;
 }
 .pricing-table-number{}
 .pricing-table-number span{
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color: #fff;
 }
@@ -4982,7 +4983,7 @@ ul.page-breadcrumbs li + li:before {
 .pricing-table-content p{
     font-size: 14px;
     color: #959595;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-weight: bold;
 }
@@ -5029,7 +5030,7 @@ ul.page-breadcrumbs li + li:before {
     border-bottom: 1px solid #f5f4f4;
     color: #333;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 .pricing-table-content-list ul li i{
@@ -5068,7 +5069,7 @@ ul.page-breadcrumbs li + li:before {
     font-size: 14px;
 }
 .f-h1-head p{
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     color: #9b9b9b;
     line-height: 24px;
@@ -5100,18 +5101,18 @@ ul.page-breadcrumbs li + li:before {
     padding: 10px 0px 26px 30px;
     background: transparent;
     margin: 20px 0;
-    font-style: italic;
+    font-style: ;
     border-left: 6px solid #1b1a1a;
     font-size: 20px;
     line-height: 28px;
     color: #013368;
-    font-family: 'Lora', serif;    
+    font-family: Arial, Helvetica, sans-serif;    
 }
 .typo-blockquoto-1 h3{
     color: #013368;
     text-transform: capitalize;
     font-size: 20px;
-    font-style: italic; 
+    font-style: ; 
     font-weight: 400;
     margin-top: 0;
     line-height: 30px;
@@ -5133,10 +5134,10 @@ ul.page-breadcrumbs li + li:before {
     padding: 26px 10px 26px 30px;
     background: transparent;
     margin: 20px 0;
-    font-style: italic;
+    font-style: ;
     font-size: 20px;
     line-height: 28px;
-    font-family: 'Lora', serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #222;
     border: none;
     position: relative;    
@@ -5165,7 +5166,7 @@ ul.page-breadcrumbs li + li:before {
     color: #222;
     text-transform: capitalize;
     font-size: 20px;
-    font-style: italic; 
+    font-style: ; 
     font-weight: 400;
     margin-top: 0;
 }
@@ -5198,7 +5199,7 @@ ul.page-breadcrumbs li + li:before {
     margin-bottom: 30px;
 }
 .bullet-list-content ul li{
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     color: #9b9b9b;
     line-height: 24px;
@@ -5222,7 +5223,7 @@ ul.page-breadcrumbs li + li:before {
     list-style-color:#222222;
 }
 .bullet-list-content ol li{
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     color: #9b9b9b;
     line-height: 24px;
@@ -5275,27 +5276,27 @@ ul.page-breadcrumbs li + li:before {
 }
 .contact-us-1-form form{
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .contact-us-1-form form .form-control{
     font-size: 13px;
 }
 .contact-us-1-form .form-control ::-webkit-input-placeholder {
     color:#b8b8b8;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px; 
 }
 .contact-us-1-form .form-control ::-moz-placeholder {
-    color:#b8b8b8; font-family:'Open Sans', sans-serif;
+    color:#b8b8b8; font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
 } /* firefox 19+ */
 .contact-us-1-form .form-control :-ms-input-placeholder {
     color:#b8b8b8;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px; 
 } /* ie */
 .contact-us-1-form .form-control :-moz-placeholder { 
-    color:#b8b8b8; font-family: 'Open Sans', sans-serif;
+    color:#b8b8b8; font-family: Arial, Helvetica, sans-serif;
      font-size: 13px; 
  }
 .contact-us-1-form input,.contact-us-1-form input:focus{
@@ -5327,7 +5328,7 @@ ul.page-breadcrumbs li + li:before {
 .contact-us-1-form button, .contact-us-1-form button:focus{
     font-size: 13px;
     color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     padding: 17px 26px;
     background-color: #013368;
@@ -5385,7 +5386,7 @@ ul.page-breadcrumbs li + li:before {
     font-weight: 700;
     text-transform: uppercase;
     position: relative;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     border: 0px;
     position: relative;
     -webkit-transition: all .5s;
@@ -5604,7 +5605,7 @@ ul.page-breadcrumbs li + li:before {
     display: inline-block;
     font-size: 12px;
     color: #bfbfbf;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 0px 10px;
     border-right: 1px solid #e5e4e4;
 }
@@ -5614,7 +5615,7 @@ ul.page-breadcrumbs li + li:before {
 .v-3-header-contact ul li a {
     font-size: 12px;
     color: #013368;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     -webkit-transition: all 300ms linear 0ms;
     -moz-transition: all 300ms linear 0ms;
@@ -5722,7 +5723,7 @@ ul.page-breadcrumbs li + li:before {
     text-decoration: none;
     margin: 0;
     display: inline-block;
-    font-family: 'Lora', serif; 
+    font-family: Arial, Helvetica, sans-serif; 
 
 }
 .v-menuzord-brand:hover{
@@ -6361,7 +6362,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     outline: medium none;
     padding: 0 10px;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background: transparent;
 }
 .shop-m-h-right-content{}
@@ -6380,7 +6381,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     outline: medium none;
     padding: 0 10px;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background: transparent;
 }
 .shop-main-content{
@@ -6402,7 +6403,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     font-size: 14px;
     font-weight: bold;
     color: #ffffff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background: #1b1a1a;
     width: 50px;
     height: 30px;
@@ -6474,8 +6475,8 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .shop-content-text p{
     font-size: 13px;
     color: #b8b8b8;
-    font-style: italic;
-    font-family: 'Lora', serif;
+    font-style: ;
+    font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 0;
 }
 .shop-content-text p a{
@@ -6824,7 +6825,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     width: 135px;
     height: 40px;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
@@ -7107,7 +7108,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     width: 135px;
     height: 40px;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
@@ -7129,7 +7130,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     width: 135px;
     height: 40px;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
@@ -7160,7 +7161,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     padding: 17px 0px;
     font-size: 14px!important;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #b8b8b8;
 }
 .shop-cart-update-left form select{
@@ -7174,7 +7175,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     margin-bottom: 15px;
     color: #b8b8b8;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     font-weight: 400;
 }
@@ -7200,7 +7201,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     margin-bottom: 15px;
     color: #b8b8b8;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     font-weight: 400;
     width: 48%;
@@ -7219,7 +7220,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     width: 135px;
     height: 40px;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
@@ -7297,4 +7298,8 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 }
 .rev-margin{
     margin-top: 170px!important;
+}
+
+.jc{
+    text-shadow: 2px 2px 22px rgb(13,47,97) !important;
 }
