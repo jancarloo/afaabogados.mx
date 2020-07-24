@@ -7303,3 +7303,20 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .jc{
     text-shadow: 2px 2px 22px rgb(13,47,97) !important;
 }
+
+.Ver-Mas {
+  color: #ffffff !important;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: #000080;
+  border: 2px solid;
+  border-color: #318aac;
+  transition: all 1s ease;
+  position: relative;
+}
+.Ver-Mas:hover {
+  background: #4747B1;
+  color: #000000 !important;
+}
+
