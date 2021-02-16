@@ -3486,6 +3486,12 @@ select::-ms-expand {
 .contact-page-title-bg{
     background: url(../images/page-titles/contact-us-title-bg1.png);  
 }
+.services-page-title-bg{
+    background: url(../images/page-titles/services.png);  
+}
+.about-page-title-bg{
+    background: url(../images/page-titles/about.png);  
+}
 .page-title-padding{
     padding-top: 130px;
 }
